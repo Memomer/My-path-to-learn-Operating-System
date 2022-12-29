@@ -1,6 +1,9 @@
 # My-path-to-learn-Operating-System
 How i learned about operating systems, my strategy, code and documenting notes.
 
+For covering up pre-requisite if you are not able to understand lectures from get go-> <a href="https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL">The Hardware/Software Interface by Luis Ceze and Gaetano Borriello</a>
+
+
 Video lecture I used to introduce OS to myself->
 <a href="https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws">CS162 by John Kubiatowicz</a>
  
