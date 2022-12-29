@@ -8,7 +8,7 @@ Video lecture I used to introduce OS to myself->
 <a href="https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws">CS162 by John Kubiatowicz</a>
 
 Books I am reading on the same topic->
-<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Three Easy Pieces by https://pages.cs.wisc.edu/~remzi/OSTEP/</a>
+<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Three Easy Pieces by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau</a>
 
  
 Possible ideas to get a deeper understanding->
