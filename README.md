@@ -9,6 +9,8 @@ Video lecture I used to introduce OS to myself->
 
 Books I am reading on the same topic->
 <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Three Easy Pieces by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau</a>
+<a href="https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf">Operating System Concepts
+Book by Avi Silberschatz, Greg Gagne, and Peter Baer Galvin</a>
 
  
 Possible ideas to get a deeper understanding->
@@ -18,5 +20,8 @@ Possible ideas to get a deeper understanding->
     -> another book -> <a href="https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf">LINK</a>
    
  2. tip <div style="width:100px; height:100px">![Screenshot_20221225_165741](https://user-images.githubusercontent.com/107757811/209466418-8f35f50a-e001-48de-867d-88c32fe2d743.png)</div>
+
+ 3. Will add mini programmes related to os concepts, this will help me by building concepts on topics like scheduling, interrupts etc. 
+ 
 
   for the same will add more links which helped me understand the concepts
